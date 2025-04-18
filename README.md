@@ -1,86 +1,27 @@
-# 💻 Chandu Raparthi  
+# 💫 About Me:
+## 👋 About Me<br><br>I'm Chandu Raparthi, a passionate Java Backend Developer with over 2.5 years of hands-on experience in designing and building scalable, high-performance backend systems. I specialize in Java, Spring Boot, Microservices, RESTful APIs, and database management with PostgreSQL and MySQL.<br><br>🔹 I enjoy crafting clean, maintainable code and solving real-world problems.  <br>🔹 Experienced in both monolithic and microservices architecture.  <br>🔹 Comfortable working with CI/CD pipelines, containerization (Docker, Kubernetes), and cloud basics (AWS).  <br>🔹 I write unit and integration tests to ensure quality and reliability in production.  <br>🔹 Always exploring new tools, tech, and ways to improve system performance.<br><br>📫 Let's connect!  <br>- 💼 [LinkedIn](https://www.linkedin.com/in/chandu-raparthi/)  <br>- 🌐 [Portfolio](https://chanduraaparthi21.github.io/Chandu-Portfolio/)  <br>- 📬 chanduraparthi21@gmail.com<br>
 
-🚀 **Java Backend Developer** | **2.4+ Years Experience** | **Spring Boot | Microservices | AWS | SQL**  
 
-📍 Hyderabad, India  
-📧 chanduraparthi21@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/chandu-raparthi/) | [Portfolio](https://chanduraaparthi21.github.io/Chandu-Portfolio/)  
-🏆 [HackerRank Certification](https://www.hackerrank.com/certificates/9f387764269a)  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandu-raparthi/) 
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ChanduRaaparthi21&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ChanduRaaparthi21&theme=city_lights&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanduRaaparthi21&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🛠️ Technical Skills  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ChanduRaaparthi21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- **Languages**: Java 8/17, SQL  
-- **Frameworks**: Spring Boot, Spring MVC, Hibernate, JPA, Microservices, Spring Security  
-- **Databases**: MySQL, PostgreSQL, Redis (Basic)  
-- **DevOps & Cloud**: Docker (Basic), Kubernetes (Basic), AWS (EC2, S3, RDS, IAM)  
-- **CI/CD**: Jenkins, GitHub Actions  
-- **Tools**: Git, Maven, Postman, JIRA  
-- **Software Development**: Agile, Scrum  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-## 📌 Work Experience  
-
-### 🔹 **Associate Java Developer** – Edgerock Software Solutions Pvt Ltd (Nov 2022 – Present)  
-
-#### 📌 **Project: Custom Fleet (DBS Bank)**  
-- Developed a **Loan Management System** for fleet financing.  
-- Built secure **RESTful APIs** with Spring Boot.  
-- Integrated **Spring Security (JWT/OAuth2)** for authentication.  
-- Managed **PostgreSQL** for transaction processing.  
-- Optimized code for **performance and stability**.  
-
-#### 📌 **Project: CTCP-Axis (Axis Bank)**  
-- Developed **Trade Finance Complaint Management** APIs.  
-- Improved API performance by **30%**.  
-- Implemented **real-time tracking** for financial transactions.  
-- Managed MySQL databases for transaction storage.  
-- Configured **CI/CD pipelines using Jenkins**.  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ChanduRaaparthi21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ChanduRaaparthi21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌟 Featured Projects  
-
-### 🏆 **Backend Development Projects**  
-
-- **[Microservices Online Quiz App](https://github.com/ChanduRaaparthi21/microservices)**  
-  🔹 Developed both **Monolithic & Microservices** architectures for scalability & flexibility.  
-
-- **[Loan Management System](https://github.com/ChanduRaaparthi21/Loan-Management-)**  
-  🔹 Created secure **REST APIs** for banking loan management.  
-
-- **[Spring Boot Job Portal](https://github.com/ChanduRaaparthi21/Chandu-Job-Portal-Web-App)**  
-  🔹 Built a **Job Posting Web App** with Spring Boot & JSP.  
-
-- **[Spring Boot REST API App](https://github.com/ChanduRaaparthi21/Rest-api-application)**  
-  🔹 Implemented **Unit Testing (JUnit, Mockito)** for reliability.  
-
-### 🌐 **Full Stack & Cloud Projects**  
-
-- **[E-Commerce Store](https://github.com/ChanduRaaparthi21/E-commerce-chandu)**  
-  🔹 Developed an online shopping app using **Spring Boot & React**.  
-
-- **[Automatic Email Sender](https://github.com/ChanduRaaparthi21/Automatic-Email-Sender-Hr)**  
-  🔹 Built an automated email system using **Spring Boot & SMTP**.  
-
-- **[Spring Boot AWS RDS](https://github.com/ChanduRaaparthi21/springboot-aws-rds)**  
-  🔹 Integrated AWS RDS with **Spring Boot for database management**.  
-
-- **[Spring Boot with Kubernetes](https://github.com/ChanduRaaparthi21/springboot-crud-k8s-example)**  
-  🔹 Deployed Spring Boot apps using **Kubernetes & Docker**.  
-
----
-
-## 🚀 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChanduRaaparthi21&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanduRaaparthi21&layout=compact&theme=radical)  
-
----
-
-### 🏆 Certifications  
-- **HackerRank Software Engineer Certificate** ([View](https://www.hackerrank.com/certificates/9f387764269a))  
-
-💡 **Passionate about building scalable applications & always learning new technologies!** 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
