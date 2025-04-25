@@ -8,9 +8,9 @@
 ---
 
 📈 **Profile Views**  
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ChanduRaaparthi21/count.svg" alt="visitor count"/>
-</p>
+<a href="https://github.com/ChanduRaaparthi21" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=ChanduRaaparthi21&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+</a>
 
 ---
 
