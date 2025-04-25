@@ -1,9 +1,6 @@
 # 💫 About Me:
 ## 👋 <br><br>I'm Chandu Raparthi, a passionate Java Backend Developer with over 2.5 years of hands-on experience in designing and building scalable, high-performance backend systems. I specialize in Java, Spring Boot, Microservices, RESTful APIs, and database management with PostgreSQL and MySQL.<br><br>🔹 I enjoy crafting clean, maintainable code and solving real-world problems.  <br>🔹 Experienced in both monolithic and microservices architecture.  <br>🔹 Comfortable working with CI/CD pipelines, containerization (Docker, Kubernetes), and cloud basics (AWS).  <br>🔹 I write unit and integration tests to ensure quality and reliability in production.  <br>🔹 Always exploring new tools, tech, and ways to improve system performance.<br><br>📫 Let's connect!  <br>- 💼 [LinkedIn](https://www.linkedin.com/in/chandu-raparthi/)  <br>- 🌐 [Portfolio](https://chanduraaparthi21.github.io/Chandu-Portfolio/)  <br>- 📬 chanduraparthi21@gmail.com<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandu-raparthi/) 
+ 
 
 ---
 
