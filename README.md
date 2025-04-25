@@ -8,7 +8,9 @@
 ---
 
 📈 **Profile Views**  
-<img src="https://count.getloli.com/get/@ChanduRaaparthi21?theme=anime" alt="Visitor Count" />
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ChanduRaaparthi21/count.svg" alt="visitor count"/>
+</p>
 
 ---
 
