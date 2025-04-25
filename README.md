@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandu-raparthi/) 
 
-![Visitor Count](https://count.getloli.com/get/@ChanduRaaparthi21?theme=rule34)
+![Visitor Count](https://count.getloli.com/get/@ChanduRaaparthi21?theme=classic)
 
 
 # 💻 Tech Stack:
