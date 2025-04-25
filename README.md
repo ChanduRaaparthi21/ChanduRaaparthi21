@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandu-raparthi/) 
 
-                    <img src="https://visitor-badge.laobi.icu/badge?page_id=ChanduRaaparthi21.portfolio" alt="visitor badge"/>
+[![@chanduraparthi21's Holopin board](https://holopin.io/api/user/board?user=chanduraparthi21)](https://holopin.io/@chanduraparthi21)
 
 
 # 💻 Tech Stack:
